@@ -52,3 +52,9 @@ export default tseslint.config({
   },
 })
 ```
+To initialize use
+# npm install
+And follow with 
+# npm run dev
+
+This shows up an instagram feed insterface - Software Enginner - Web Prog
