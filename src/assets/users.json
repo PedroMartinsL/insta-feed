@@ -1,0 +1,9 @@
+[
+  {
+    "name": "John Doe",
+    "photo": "/assets/perfil.jpg",
+    "imgPost": "/assets/posts/feio.jpg",
+    "spanLikes": "20041",
+    "textPost": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  }
+]
