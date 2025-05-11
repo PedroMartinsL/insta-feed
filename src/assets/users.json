@@ -1,9 +1,142 @@
 [
   {
     "name": "John Doe",
-    "photo": "/assets/perfil.jpg",
-    "imgPost": "/assets/posts/feio.jpg",
+    "photo": "assets/perfis/download.jpg",
+    "imgPost": "assets/posts/download.jpg",
     "spanLikes": "20041",
-    "textPost": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    "textPost": "Explorando as montanhas ao nascer do sol!"
+  },
+  {
+    "name": "Maria Clara",
+    "photo": "assets/perfis/download (1).jpg",
+    "imgPost": "assets/posts/download (1).jpg",
+    "spanLikes": "15634",
+    "textPost": "Um café e uma boa companhia ☕"
+  },
+  {
+    "name": "Lucas Lima",
+    "photo": "assets/perfis/download (2).jpg",
+    "imgPost": "assets/posts/download (2).jpg",
+    "spanLikes": "7823",
+    "textPost": "Domingo de churrasco em família!"
+  },
+  {
+    "name": "Ana Beatriz",
+    "photo": "assets/perfis/download (3).jpg",
+    "imgPost": "assets/posts/download (3).jpg",
+    "spanLikes": "9812",
+    "textPost": "Verão no litoral 🌊☀️"
+  },
+  {
+    "name": "Carlos Mendes",
+    "photo": "assets/perfis/download (4).jpg",
+    "imgPost": "assets/posts/download (4).jpg",
+    "spanLikes": "12900",
+    "textPost": "Nova arte finalizada! O que acharam?"
+  },
+  {
+    "name": "Juliana",
+    "photo": "assets/perfis/download (5).jpg",
+    "imgPost": "assets/posts/download (5).jpg",
+    "spanLikes": "11234",
+    "textPost": "Dia de spa 🌸✨"
+  },
+  {
+    "name": "Gabriel",
+    "photo": "assets/perfis/download (6).jpg",
+    "imgPost": "assets/posts/download (6).jpg",
+    "spanLikes": "8342",
+    "textPost": "Saudades desse momento..."
+  },
+  {
+    "name": "Fernanda Souza",
+    "photo": "assets/perfis/download (7).jpg",
+    "imgPost": "assets/posts/download (7).jpg",
+    "spanLikes": "14329",
+    "textPost": "Festival incrível esse fim de semana! 🎶"
+  },
+  {
+    "name": "Bruno Rocha",
+    "photo": "assets/perfis/download (8).jpg",
+    "imgPost": "assets/posts/download (8).jpg",
+    "spanLikes": "9982",
+    "textPost": "Trabalhando nos bastidores do novo projeto 👨‍💻"
+  },
+  {
+    "name": "Letícia Alves",
+    "photo": "assets/perfis/download (9).jpg",
+    "imgPost": "assets/posts/download (9).jpg",
+    "spanLikes": "16344",
+    "textPost": "Amanhecer no topo do mundo 🌄"
+  },
+  {
+    "name": "Vinícius Reis",
+    "photo": "assets/perfis/download (10).jpg",
+    "imgPost": "assets/posts/download (10).jpg",
+    "spanLikes": "7123",
+    "textPost": "Nova tatuagem feita 💉"
+  },
+  {
+    "name": "Paula Martins",
+    "photo": "assets/perfis/download (11).jpg",
+    "imgPost": "assets/posts/download (11).jpg",
+    "spanLikes": "12756",
+    "textPost": "Feriado no campo com os amigos"
+  },
+  {
+    "name": "Thiago Oliveira",
+    "photo": "assets/perfis/download (12).jpg",
+    "imgPost": "assets/posts/download (12).jpg",
+    "spanLikes": "8931",
+    "textPost": "Primeiro show com a banda! 🎤"
+  },
+  {
+    "name": "Isabela",
+    "photo": "assets/perfis/download (13).jpg",
+    "imgPost": "assets/posts/download (13).jpg",
+    "spanLikes": "15221",
+    "textPost": "Mood: relaxando com um bom livro 📚"
+  },
+  {
+    "name": "André Costa",
+    "photo": "assets/perfis/download (14).jpg",
+    "imgPost": "assets/posts/download (14).jpg",
+    "spanLikes": "13402",
+    "textPost": "Dia de bike pela cidade 🚴"
+  },
+  {
+    "name": "Raquel",
+    "photo": "assets/perfis/download (15).jpg",
+    "imgPost": "assets/posts/download (15).jpg",
+    "spanLikes": "14680",
+    "textPost": "Amanhecer visto da janela 💭"
+  },
+  {
+    "name": "Eduardo",
+    "photo": "assets/perfis/download (16).jpg",
+    "imgPost": "assets/posts/download (16).jpg",
+    "spanLikes": "10456",
+    "textPost": "Ensaio novo com luz natural"
+  },
+  {
+    "name": "Luana",
+    "photo": "assets/perfis/download (17).jpg",
+    "imgPost": "assets/posts/download (17).jpg",
+    "spanLikes": "17456",
+    "textPost": "Flores que colhi hoje 🌼"
+  },
+  {
+    "name": "Felipe Braga",
+    "photo": "assets/perfis/download (18).jpg",
+    "imgPost": "assets/posts/download (18).jpg",
+    "spanLikes": "13201",
+    "textPost": "A vida é feita de pequenos momentos ✨"
+  },
+  {
+    "name": "Camila Ferreira",
+    "photo": "assets/perfis/download (19).jpg",
+    "imgPost": "assets/posts/download (19).jpg",
+    "spanLikes": "19870",
+    "textPost": "Tarde de fotos com @amigos"
   }
 ]

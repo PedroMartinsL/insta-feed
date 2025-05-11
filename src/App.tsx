@@ -1,4 +1,4 @@
-import { useState, useEffect } from "react";
+import { useState } from "react";
 import "./App.css";
 import userData from "./assets/users.json";
 import { AiOutlineHeart, AiFillHeart } from 'react-icons/ai';
@@ -87,24 +87,18 @@ function Post(props: PostData) {
 }
 
 function App() {
-  const [name, setName] = useState("");
-  const [photo, setPhoto] = useState("");
-  const [imgPost, setImgPost] = useState("");
-  const [textPost, setTextPost] = useState("");
-  const [spanLikes, setSpanLikes] = useState("0");
-  const userData0 = userData[0];
-
-  useEffect(() => {
-    setName(userData0.name);
-    setPhoto(userData0.photo);
-    setImgPost(userData0.imgPost);
-    setTextPost(userData0.textPost);
-    setSpanLikes(userData0.spanLikes);
-  }, [userData0.name, userData0.photo, userData0.imgPost, userData0.textPost, userData0.spanLikes]);
-
   return (
     <div className="app">
-      <Post imgPost={imgPost} textPost={textPost} name_id={name} photo={photo} likes={spanLikes}/>
+      {userData.map((user, index) => (
+        <Post
+          key={index}
+          imgPost={user.imgPost}
+          textPost={user.textPost}
+          name_id={user.name}
+          photo={user.photo ?? "/posts/404.jpg"}
+          likes={user.spanLikes}
+        />
+      ))}
     </div>
   );
 }
