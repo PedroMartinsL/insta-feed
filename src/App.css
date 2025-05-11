@@ -1,55 +1,5 @@
+@import "tailwindcss";
+
 body {
   font-family: 'Raleway', sans-serif;
-}
-
-.app {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  min-height: 100vh;
-  padding: 20px;
-  gap: 5px;
-}
-
-header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 20px 0px 20px 20px;
-}
-
-.main-post {
-  border: 0.5px solid rgb(160, 159, 159, 0.5);
-  padding: 20px 30px 40px 30px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  width: 35%;
-}
-
-span {
-  color: gray;
-}
-
-.person {
-  display: flex;
-  gap: 30px;
-}
-
-.response-interaction {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  padding-bottom: 20px;
-}
-
-.response-interaction img {
-  padding-bottom: 20px;
-  max-height: 40rem;
-  object-fit: cover;
-}
-
-.perfil {
-  cursor: pointer;
-  width: 70px;
-  height: 70px;
-  border-radius: 50%;
 }
